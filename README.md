@@ -16,7 +16,7 @@ pip install folium
 Clonas el proyecto:
 
 ```bash
-git clone #añadir cuando tengas la url
+git clone https://github.com/barricadadigital/GeoWifi
 ```
 
 ### ADB
